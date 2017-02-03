@@ -1,0 +1,3 @@
+[submodule "mywinapi"]
+	path = mywinapi
+	url = https://raymai97@bitbucket.org/raymai97/mywinapi.git
