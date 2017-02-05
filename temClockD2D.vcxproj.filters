@@ -60,6 +60,12 @@
     <ClCompile Include="Cfg.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D2DUIWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D2DUIWindow_Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MiniXML\src\mxml.h">
@@ -72,6 +78,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Cfg.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D2DUIElement.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D2DUIWindow.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D2DUI.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
